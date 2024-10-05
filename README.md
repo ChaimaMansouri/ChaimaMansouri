@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @ChaimaMansouri
 - 👀 I’m interested in
-        Data science
-        Full Stack Development
+        Data science and
+        Full Stack Development and
         Security.
 - 🌱 I’m currently
         learning Data Science as part of my Engineering studies, and exploring Full Stack Development.
