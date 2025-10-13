@@ -1,3 +1,4 @@
+# 💫 Hi, I'm Chaima Mansouri
 # 💫 About Me:
  I’m a 4th-year Computer Science student specializing in Data Science and Full Stack Development.<br><br>🤖 Deeply interested in Artificial Intelligence (AI) and how it can shape the future .<br>💻 Enthusiastic about Web Development  .<br>🧠 Always curious to learn new technologies and improve my skills .<br>🤝 Love working on innovative projects and collaborating with teams .
 
