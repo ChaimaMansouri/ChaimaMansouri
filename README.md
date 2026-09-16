@@ -1,7 +1,9 @@
 
 <div align="center">
 
-  <h1>Hi 👋, I'm Chaima Mansouri</h1>
+  <h1 align="center" style="font-family: Georgia, 'Times New Roman', serif; color: #7A4E2D;">
+  Hi 👋, I'm Chaima Mansouri
+  </h1>
 
   <h3>🎓 5th-Year Computer Science Student | Data Science</h3>
 
