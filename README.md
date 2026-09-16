@@ -8,10 +8,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chaima-mansouri/">
+  <a href="https://www.linkedin.com/in/chaima-mansouri-729396340/">
     <img src="https://img.shields.io/badge/LinkedIn-Chaima%20Mansouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:chaima@gmail.com">
+  <a href="mailto:chaimamansouri1922@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Chaima%20Mansouri-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -90,24 +90,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🤖 AI & Data Science
-
-- **AI Contract Intelligence**  
-  Intelligent document analysis and question answering using AI and RAG.
-
-- **English AI Tutor**  
-  AI-powered English learning assistant with grammar correction and interactive learning.
-
-### 🌐 Web Development
-
-- Web applications built with React, Flask, and modern web technologies.
-
-> More projects coming soon...
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -134,10 +116,10 @@
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:chaima@gmail.com">
+  <a href="mailto:chaimamansouri1922@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/chaima-mansouri/">
+  <a href="https://www.linkedin.com/in/chaima-mansouri-729396340">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
