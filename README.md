@@ -1,3 +1,6 @@
+#  Chaima Mansouri 
+
+
 # 💫 About Me:
 🎓 I'm a 5th-year Computer Science student, specializing in Data Science.<br><br>🤖 I'm passionate about Artificial Intelligence, Data Analysis , and Web Development.<br><br>🌱 I'm currently learning and developing my skills in AI , Data Science .<br><br>💻 I enjoy building web applications and exploring modern technologies to create practical solutions.<br><br>🚀 I'm interested in combining AI , data , and web technologies to develop innovative real-world projects.
 
